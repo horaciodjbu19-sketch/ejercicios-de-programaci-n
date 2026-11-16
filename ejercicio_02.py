@@ -1,4 +1,4 @@
-# Ejercicio 2 (I). Cálculo del tiempo de estancia
+# Ejercicio 2. Cálculo del tiempo de estancia
 
 
 print("=== TIEMPO DE ESTANCIA ===")
