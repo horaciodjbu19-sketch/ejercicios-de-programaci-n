@@ -1,5 +1,5 @@
-# Ejercicio 1 (I). Registro de ingreso al estacionamiento
-# Nivel 1: variables, entrada y salida (sin listas)
+# Ejercicio 1  Registro de ingreso al estacionamiento
+
 
 print("=== REGISTRO DE INGRESO ===")
 placa = input("Placa del vehículo: ")
