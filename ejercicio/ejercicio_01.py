@@ -6,7 +6,7 @@ placa = input("Placa del vehículo: ")
 propietario = input("Nombre del propietario: ")
 hora_entrada = input("Hora de entrada (HH:MM): ")
 
-print()
+
 print("====== COMPROBANTE DE INGRESO ======")
 print("Placa:        ", placa)
 print("Propietario:  ", propietario)
